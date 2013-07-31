@@ -1,4 +1,7 @@
 MetalPython
 ===========
 
-Python easy coding
+Python easy coding  
+
+PythonはMetalなイメージなのですよね。  
+ちなみに.NET系のIronPythonをもじってたりもします。  
